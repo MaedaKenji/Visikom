@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: oklch(0.948 0.015 256.83);
+  --color-primary-100: oklch(0.85 0.025 256.74);
+  --color-primary-200: oklch(0.766 0.033 256.85);
+  --color-primary-300: oklch(0.679 0.038 256.77);
+  --color-primary-400: oklch(0.605 0.042 256.69);
+  --color-primary-500: oklch(0.419 0.035 256.81);
+  /* #2A4759 */
+  --color-primary-600: oklch(0.395 0.033 256.79);
+  --color-primary-700: oklch(0.355 0.031 256.72);
+  --color-primary-800: oklch(0.317 0.03 256.65);
+  --color-primary-900: oklch(0.276 0.027 256.60);
+}
+
+.bg-primary {
+  background-color: var(--color-primary-500);
+}
+
+.text-primary {
+  color: var(--color-primary-500);
+}
+
+.border-primary {
+  border-color: var(--color-primary-500);
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #1A1D21;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #1A1D21;
+  background-image: linear-gradient(rgba(42, 71, 89, 0.05) 1px, transparent 1px),
+    linear-gradient(to right, rgba(42, 71, 89, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.transform.scale-75 {
+  transform: scale(0.75);
+}
+
+.transform.scale-90 {
+  transform: scale(0.9);
+}
