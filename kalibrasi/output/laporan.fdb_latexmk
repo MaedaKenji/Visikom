@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1748676073.01503 "/home/agus/CODE/Visikom/kalibrasi/laporan.tex" "output/laporan.pdf" "laporan" 1748676073.68259 0
+["pdflatex"] 1748779736.82746 "/home/agus/CODE/Visikom/kalibrasi/laporan.tex" "output/laporan.pdf" "laporan" 1748779737.42649 0
   "/etc/texmf/web2c/texmf.cnf" 1748301310.15639 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/agus/CODE/Visikom/kalibrasi/laporan.tex" 1748676073.50504 29169 85467ae8df050e5927a3c8389a861e2c ""
+  "/home/agus/CODE/Visikom/kalibrasi/laporan.tex" 1748779736.64976 29249 f25bf23b08069075f8f25d3bb6026632 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -113,10 +113,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1748674582.6325 5345362 6c26c58c945ee68fda8f15e3d1bb4e48 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1748675355 6898096 53ffe245ff7b9f93afe69fa240599cc5 ""
   "Computer-Engineering-1.jpg" 1748675908.16563 14068 834a6d3887e8d264769a02c2bf45c712 ""
-  "laporan.tex" 1748676073.50504 29169 85467ae8df050e5927a3c8389a861e2c ""
-  "output/laporan.aux" 1748676073.63004 3506 c8291e16ea455996a76b8e68703a7e59 "pdflatex"
-  "output/laporan.out" 1748676073.63104 3283 162f20264fae7d196a0bd485f3e7875b "pdflatex"
-  "output/laporan.toc" 1748676073.63104 1537 a1c0f898e00f98451e5ff02b0ae73dd1 "pdflatex"
+  "laporan.tex" 1748779736.64976 29249 f25bf23b08069075f8f25d3bb6026632 ""
+  "output/laporan.aux" 1748779737.37674 3506 c8291e16ea455996a76b8e68703a7e59 "pdflatex"
+  "output/laporan.out" 1748779737.37774 3283 162f20264fae7d196a0bd485f3e7875b "pdflatex"
+  "output/laporan.toc" 1748779737.37774 1537 a1c0f898e00f98451e5ff02b0ae73dd1 "pdflatex"
   (generated)
   "output/laporan.aux"
   "output/laporan.log"
