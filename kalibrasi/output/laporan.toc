@@ -6,13 +6,13 @@
 \contentsline {section}{\numberline {3}Metodologi: Penjelasan Kode Python}{3}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Inisialisasi dan Persiapan}{3}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Pengambilan Gambar dan Deteksi Fitur}{4}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Melepaskan Sumber Daya}{7}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Proses Kalibrasi Kamera}{7}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Memahami Parameter Kamera}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Parameter Intrinsik (Matriks Kamera)}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Koefisien Distorsi}{10}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Parameter Ekstrinsik (Vektor Rotasi dan Translasi)}{10}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Algoritma Kalibrasi (Singkat)}{10}{section.5}%
-\contentsline {section}{\numberline {6}Penggunaan Hasil Kalibrasi}{11}{section.6}%
-\contentsline {section}{\numberline {7}Tips untuk Kalibrasi yang Baik}{12}{section.7}%
-\contentsline {section}{\numberline {8}Kesimpulan}{12}{section.8}%
+\contentsline {subsection}{\numberline {3.3}Melepaskan Sumber Daya}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Proses Kalibrasi Kamera}{6}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Memahami Parameter Kamera}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Parameter Intrinsik (Matriks Kamera)}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Koefisien Distorsi}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Parameter Ekstrinsik (Vektor Rotasi dan Translasi)}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Algoritma Kalibrasi}{9}{section.5}%
+\contentsline {section}{\numberline {6}Penggunaan Hasil Kalibrasi}{9}{section.6}%
+\contentsline {section}{\numberline {7}Tips untuk Kalibrasi yang Baik}{10}{section.7}%
+\contentsline {section}{\numberline {8}Kesimpulan}{10}{section.8}%
